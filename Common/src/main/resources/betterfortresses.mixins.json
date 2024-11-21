@@ -5,9 +5,7 @@
   "refmap": "betterfortresses.refmap.json",
   "mixins": [
     "DisableVanillaFortressesMixin",
-    "LocateVanillaFortressCommandMixin",
-    "NoBasaltColumnsInStructuresMixin",
-    "NoDeltasInStructuresMixin"
+    "LocateVanillaFortressCommandMixin"
   ],
   "injectors": {
     "defaultRequire": 1
